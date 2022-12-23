@@ -13,7 +13,18 @@ README
 	
 # Usage
 
-**To view password info:** Double click (or Right click and select "Run with powershell") on `view.ps1`.
+### To view password info:
+- Double click (or Right click and select "Run with powershell") on `view.ps1`.
+- Enter your password. The default password is `testpw001`
+- You can filter with the box on top.
+- Close the window and hit any key to exit. 
+![view](assets/view.png)
 
-**To edit or add password info**: Double click (or right click and select "Run with powershell") on `edit.ps1`.
+### To edit or add password info: 
+- Double click (or right click and select "Run with powershell") on `edit.ps1`.
+- Edit existing entries or add new ones as CSV. There must be four columns as shown in the first row.
+- Exit out of notepad.
+- You will be prompted for another password. **Remember it! It's your one master password and your data will be entirely lost if you forget it. Write it down somewhere physical maybe.**
+- Hit any key to exit. Your new data has been saved and encrypted. 
+![edit](assets/edit.png)
 
