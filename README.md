@@ -1,4 +1,5 @@
-# BarrdVault - The world's jankiest (yet somehow fast and functional) 100% offline password manager
+# BarrdVault
+##### The world's jankiest (yet somehow fast and functional) 100% offline password manager
 
 ![lock](assets/lock.png)
 ##### a rusty lock, a fitting analogy
