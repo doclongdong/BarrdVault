@@ -9,8 +9,8 @@
 2. Install [GPG4Win](https://gpg4win.org/download.html)
 3. Download the package (download code as .zip) and extract the package.
 4. Right click on `view.ps1` or `edit.ps1`
-	a. Go to "Open With" and select PowerShell (or `pwsh.exe`) if it is available.
-	b. Then, select the "Always open with" checkbox.
+    - Go to "Open With" and select PowerShell (or `pwsh.exe`) if it is available.
+    - Then, select the "Always open with" checkbox.
 5. Double click "view.ps1" to ensure the script is working. 
 	
 	
