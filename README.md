@@ -1,5 +1,7 @@
-README
-BarrdVault - The world's jankiest (yet somehow fast and functional) 100% offline password manager
+# BarrdVault - The world's jankiest (yet somehow fast and functional) 100% offline password manager
+
+![lock](assets/lock.png)
+# a rusty lock, a fitting analogy
 
 # Installation
 1. Install Powershell 7.3.0  from the [official source](https://github.com/PowerShell/PowerShell/releases/download/v7.3.0/PowerShell-7.3.0-win-x64.msi)
